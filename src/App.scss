@@ -1,0 +1,11 @@
+$brand-01: deeppink;
+$inverse-01: white;
+
+@import '~carbon-addons-ics/scss/index-themed.scss';
+
+.mycustomheader {
+  padding: 3rem;
+  background: $brand-01;
+  color: $inverse-01;
+  margin-bottom: 3rem;
+}

@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          Code Camp
+          <h1>JUMP sessions</h1>
         </header>
       </div>
     );

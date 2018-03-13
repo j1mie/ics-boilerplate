@@ -8,11 +8,10 @@ class App extends Component {
         <header>
           <h1>JUMP sessions</h1>
         </header>
-        <div className="bx--grid">
-          <div className="bx--row">
-              
-          </div>
-        </div>
+        <main>
+          <p>Welcome to JUMP sessions registration page. We'd love for you to get involved with our community!</p>
+          <p>Simply register and we'll send out updates for upcoming talks. 👍</p>
+        </main>
       </div>
     );
   }

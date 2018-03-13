@@ -8,6 +8,11 @@ class App extends Component {
         <header>
           <h1>JUMP sessions</h1>
         </header>
+        <div className="bx--grid">
+          <div className="bx--row">
+              
+          </div>
+        </div>
       </div>
     );
   }
